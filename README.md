@@ -1,0 +1,1 @@
+This project will be to create a recipes website using only HTML. I will create a main index page that links to a handful of different recipes. I'll utilize the skills I've learned so far with HTML (Creating standard boilerplate, paragraph elements, list elements, strong and emphasis elements, anchor elements, and more) to create this website.
